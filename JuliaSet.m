@@ -1,4 +1,4 @@
-clear
+clear%test
 k=15; 
 niter=2^k;
 x=zeros(1,niter);y=zeros(1,niter);
